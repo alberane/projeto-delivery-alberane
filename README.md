@@ -1,2 +1,1 @@
-# projeto-delivery-alberane
-Projeto Delivery
+# Delivery API
